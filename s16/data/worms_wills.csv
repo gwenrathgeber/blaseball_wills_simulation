@@ -1,22 +1,21 @@
 will_1,will_2,relative_prob,will_combo
-Foreshadow,Move,0.22263,Foreshadow + Move
-Exchange,Move,0.18277,Exchange + Move
-Exchange,Foreshadow,0.17396999999999999,Exchange + Foreshadow
-Move,Transfuse,0.07028,Move + Transfuse
-Foreshadow,Transfuse,0.06853000000000001,Foreshadow + Transfuse
-Move,Plunder,0.06343,Move + Plunder
-Foreshadow,Plunder,0.05943,Foreshadow + Plunder
-Exchange,Transfuse,0.055249999999999994,Exchange + Transfuse
-Exchange,Plunder,0.04958,Exchange + Plunder
-Plunder,Transfuse,0.01941,Plunder + Transfuse
-Enrich,Move,0.009920000000000002,Enrich + Move
-Enrich,Foreshadow,0.009840000000000002,Enrich + Foreshadow
-Enrich,Exchange,0.007390000000000001,Enrich + Exchange
-Enrich,Transfuse,0.0029100000000000003,Enrich + Transfuse
-Enrich,Plunder,0.0024700000000000004,Enrich + Plunder
+Foreshadow,Move,0.25166999999999995,Foreshadow + Move
+Exchange,Foreshadow,0.14451,Exchange + Foreshadow
+Exchange,Move,0.14242,Exchange + Move
+Foreshadow,Transfuse,0.11095,Foreshadow + Transfuse
+Move,Transfuse,0.10882999999999998,Move + Transfuse
+Exchange,Transfuse,0.06116,Exchange + Transfuse
+Foreshadow,Plunder,0.048049999999999995,Foreshadow + Plunder
+Move,Plunder,0.04662999999999999,Move + Plunder
+Exchange,Plunder,0.027159999999999997,Exchange + Plunder
+Plunder,Transfuse,0.02042,Plunder + Transfuse
+Enrich,Foreshadow,0.011479999999999999,Enrich + Foreshadow
+Enrich,Move,0.01083,Enrich + Move
+Enrich,Exchange,0.00668,Enrich + Exchange
+Enrich,Transfuse,0.00498,Enrich + Transfuse
+Enrich,Plunder,0.00193,Enrich + Plunder
 Alternate Trust,Foreshadow,0.00068,Alternate Trust + Foreshadow
 Alternate Trust,Move,0.00066,Alternate Trust + Move
-Alternate Trust,Exchange,0.00053,Alternate Trust + Exchange
-Alternate Trust,Plunder,0.00019,Alternate Trust + Plunder
-Alternate Trust,Transfuse,0.00011,Alternate Trust + Transfuse
-Alternate Trust,Enrich,1.9999999999999998e-05,Alternate Trust + Enrich
+Alternate Trust,Transfuse,0.00041,Alternate Trust + Transfuse
+Alternate Trust,Exchange,0.00036999999999999994,Alternate Trust + Exchange
+Alternate Trust,Plunder,0.00018,Alternate Trust + Plunder

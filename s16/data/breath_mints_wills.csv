@@ -1,22 +1,22 @@
 will_1,will_2,relative_prob,will_combo
-Move,Transfuse,0.72706,Move + Transfuse
-Exchange,Transfuse,0.08245000000000001,Exchange + Transfuse
-Exchange,Move,0.08209,Exchange + Move
-Alternate Trust,Transfuse,0.017560000000000003,Alternate Trust + Transfuse
-Alternate Trust,Move,0.01608,Alternate Trust + Move
-Foreshadow,Transfuse,0.01533,Foreshadow + Transfuse
-Foreshadow,Move,0.01484,Foreshadow + Move
-Enrich,Transfuse,0.01036,Enrich + Transfuse
-Enrich,Move,0.01016,Enrich + Move
-Move,Plunder,0.0088,Move + Plunder
-Plunder,Transfuse,0.00859,Plunder + Transfuse
-Alternate Trust,Exchange,0.00186,Alternate Trust + Exchange
-Exchange,Foreshadow,0.0015800000000000002,Exchange + Foreshadow
-Enrich,Exchange,0.00116,Enrich + Exchange
-Exchange,Plunder,0.0009100000000000001,Exchange + Plunder
-Alternate Trust,Foreshadow,0.00024,Alternate Trust + Foreshadow
-Enrich,Foreshadow,0.00023999999999999998,Enrich + Foreshadow
-Alternate Trust,Enrich,0.00021000000000000004,Alternate Trust + Enrich
-Foreshadow,Plunder,0.00019,Foreshadow + Plunder
-Alternate Trust,Plunder,0.00016,Alternate Trust + Plunder
-Enrich,Plunder,0.00013000000000000002,Enrich + Plunder
+Move,Transfuse,0.7173700000000001,Move + Transfuse
+Exchange,Move,0.05781,Exchange + Move
+Exchange,Transfuse,0.05512,Exchange + Transfuse
+Foreshadow,Move,0.03989,Foreshadow + Move
+Foreshadow,Transfuse,0.03913,Foreshadow + Transfuse
+Move,Plunder,0.02507,Move + Plunder
+Plunder,Transfuse,0.0231,Plunder + Transfuse
+Alternate Trust,Move,0.011439999999999999,Alternate Trust + Move
+Alternate Trust,Transfuse,0.011369999999999998,Alternate Trust + Transfuse
+Enrich,Move,0.00606,Enrich + Move
+Enrich,Transfuse,0.00554,Enrich + Transfuse
+Exchange,Foreshadow,0.0027800000000000004,Exchange + Foreshadow
+Exchange,Plunder,0.00144,Exchange + Plunder
+Foreshadow,Plunder,0.0012,Foreshadow + Plunder
+Alternate Trust,Exchange,0.00086,Alternate Trust + Exchange
+Alternate Trust,Foreshadow,0.0005099999999999999,Alternate Trust + Foreshadow
+Enrich,Exchange,0.00049,Enrich + Exchange
+Alternate Trust,Plunder,0.00034999999999999994,Alternate Trust + Plunder
+Enrich,Foreshadow,0.00025,Enrich + Foreshadow
+Enrich,Plunder,0.00018999999999999998,Enrich + Plunder
+Alternate Trust,Enrich,2.9999999999999994e-05,Alternate Trust + Enrich
