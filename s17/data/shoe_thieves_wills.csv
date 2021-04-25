@@ -1,0 +1,29 @@
+will_1,will_2,relative_prob,will_combo
+Exchange,Reform,0.20837999999999998,Exchange + Reform
+Reform,Transfuse,0.18915,Reform + Transfuse
+Exchange,Transfuse,0.10695999999999999,Exchange + Transfuse
+Move,Reform,0.08611,Move + Reform
+Foreshadow,Reform,0.06273,Foreshadow + Reform
+Exchange,Move,0.04887,Exchange + Move
+Move,Transfuse,0.043,Move + Transfuse
+Plunder,Reform,0.03676,Plunder + Reform
+Exchange,Foreshadow,0.035820000000000005,Exchange + Foreshadow
+Foreshadow,Transfuse,0.032170000000000004,Foreshadow + Transfuse
+Exchange,Plunder,0.02036,Exchange + Plunder
+Plunder,Transfuse,0.01899,Plunder + Transfuse
+Enrich,Reform,0.01698,Enrich + Reform
+Alternate Trust,Reform,0.01491,Alternate Trust + Reform
+Foreshadow,Move,0.01389,Foreshadow + Move
+Enrich,Exchange,0.00929,Enrich + Exchange
+Enrich,Transfuse,0.00877,Enrich + Transfuse
+Move,Plunder,0.00876,Move + Plunder
+Alternate Trust,Exchange,0.00824,Alternate Trust + Exchange
+Alternate Trust,Transfuse,0.0075,Alternate Trust + Transfuse
+Foreshadow,Plunder,0.0062499999999999995,Foreshadow + Plunder
+Enrich,Move,0.00407,Enrich + Move
+Alternate Trust,Move,0.00336,Alternate Trust + Move
+Enrich,Foreshadow,0.00273,Enrich + Foreshadow
+Alternate Trust,Foreshadow,0.0025599999999999998,Alternate Trust + Foreshadow
+Enrich,Plunder,0.00164,Enrich + Plunder
+Alternate Trust,Plunder,0.00113,Alternate Trust + Plunder
+Alternate Trust,Enrich,0.00062,Alternate Trust + Enrich

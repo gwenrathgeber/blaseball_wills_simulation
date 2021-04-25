@@ -1,0 +1,16 @@
+will_1,will_2,relative_prob,will_combo
+Foreshadow,Move,0.59172,Foreshadow + Move
+Enrich,Foreshadow,0.10980999999999999,Enrich + Foreshadow
+Enrich,Move,0.08184,Enrich + Move
+Exchange,Foreshadow,0.07714,Exchange + Foreshadow
+Exchange,Move,0.0566,Exchange + Move
+Foreshadow,Transfuse,0.0334,Foreshadow + Transfuse
+Move,Transfuse,0.02382,Move + Transfuse
+Enrich,Exchange,0.01022,Enrich + Exchange
+Enrich,Transfuse,0.004579999999999999,Enrich + Transfuse
+Foreshadow,Plunder,0.0038299999999999996,Foreshadow + Plunder
+Exchange,Transfuse,0.00304,Exchange + Transfuse
+Move,Plunder,0.00297,Move + Plunder
+Enrich,Plunder,0.00052,Enrich + Plunder
+Exchange,Plunder,0.00035,Exchange + Plunder
+Plunder,Transfuse,0.00016,Plunder + Transfuse
