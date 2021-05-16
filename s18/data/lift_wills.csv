@@ -1,0 +1,22 @@
+will_1,will_2,relative_prob,will_combo
+Exchange,Move,0.23839999999999997,Exchange + Move
+Move,Shadow Infuse,0.20238,Move + Shadow Infuse
+Exchange,Shadow Infuse,0.1581,Exchange + Shadow Infuse
+Alternate Trust,Move,0.14112,Alternate Trust + Move
+Alternate Trust,Exchange,0.10562,Alternate Trust + Exchange
+Alternate Trust,Shadow Infuse,0.08968,Alternate Trust + Shadow Infuse
+Foreshadow,Move,0.01172,Foreshadow + Move
+Move,Reform,0.009999999999999998,Move + Reform
+Exchange,Foreshadow,0.0092,Exchange + Foreshadow
+Exchange,Reform,0.00798,Exchange + Reform
+Foreshadow,Shadow Infuse,0.007299999999999999,Foreshadow + Shadow Infuse
+Reform,Shadow Infuse,0.006020000000000001,Reform + Shadow Infuse
+Alternate Trust,Foreshadow,0.00524,Alternate Trust + Foreshadow
+Alternate Trust,Reform,0.0048200000000000005,Alternate Trust + Reform
+Exchange,Shadow Revoke,0.0006,Exchange + Shadow Revoke
+Move,Shadow Revoke,0.00056,Move + Shadow Revoke
+Shadow Infuse,Shadow Revoke,0.00044,Shadow Infuse + Shadow Revoke
+Foreshadow,Reform,0.00035999999999999997,Foreshadow + Reform
+Alternate Trust,Shadow Revoke,0.00032,Alternate Trust + Shadow Revoke
+Reform,Shadow Revoke,8e-05,Reform + Shadow Revoke
+Foreshadow,Shadow Revoke,5.9999999999999995e-05,Foreshadow + Shadow Revoke
