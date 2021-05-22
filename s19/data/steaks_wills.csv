@@ -1,0 +1,11 @@
+will_1,will_2,relative_prob,will_combo
+Foreshadow,Move,0.37387999999999993,Foreshadow + Move
+Exchange,Foreshadow,0.15222,Exchange + Foreshadow
+Foreshadow,Shadow Infuse,0.12672,Foreshadow + Shadow Infuse
+Exchange,Move,0.12291999999999999,Exchange + Move
+Move,Shadow Infuse,0.0973,Move + Shadow Infuse
+Exchange,Shadow Infuse,0.04084,Exchange + Shadow Infuse
+Foreshadow,Item Move,0.0371,Foreshadow + Item Move
+Item Move,Move,0.02844,Item Move + Move
+Exchange,Item Move,0.0114,Exchange + Item Move
+Item Move,Shadow Infuse,0.00918,Item Move + Shadow Infuse
