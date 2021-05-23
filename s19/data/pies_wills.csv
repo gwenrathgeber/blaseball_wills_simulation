@@ -1,16 +1,16 @@
 will_1,will_2,relative_prob,will_combo
-Alternate Trust,Shadow Infuse,0.30244,Alternate Trust + Shadow Infuse
-Foreshadow,Shadow Infuse,0.30138000000000004,Foreshadow + Shadow Infuse
-Alternate Trust,Foreshadow,0.30095999999999995,Alternate Trust + Foreshadow
-Exchange,Foreshadow,0.02268,Exchange + Foreshadow
-Alternate Trust,Exchange,0.021039999999999996,Alternate Trust + Exchange
-Exchange,Shadow Infuse,0.02024,Exchange + Shadow Infuse
-Foreshadow,Shadow Revoke,0.00574,Foreshadow + Shadow Revoke
-Shadow Infuse,Shadow Revoke,0.0054,Shadow Infuse + Shadow Revoke
-Alternate Trust,Shadow Revoke,0.00538,Alternate Trust + Shadow Revoke
-Foreshadow,Reform,0.00474,Foreshadow + Reform
-Reform,Shadow Infuse,0.00468,Reform + Shadow Infuse
-Alternate Trust,Reform,0.004339999999999999,Alternate Trust + Reform
-Exchange,Shadow Revoke,0.0006,Exchange + Shadow Revoke
-Exchange,Reform,0.00031999999999999997,Exchange + Reform
-Reform,Shadow Revoke,6e-05,Reform + Shadow Revoke
+Foreshadow,Shadow Infuse,0.28203999999999996,Foreshadow + Shadow Infuse
+Alternate Trust,Shadow Infuse,0.28094,Alternate Trust + Shadow Infuse
+Alternate Trust,Foreshadow,0.27612000000000003,Alternate Trust + Foreshadow
+Exchange,Foreshadow,0.039040000000000005,Exchange + Foreshadow
+Alternate Trust,Exchange,0.037680000000000005,Alternate Trust + Exchange
+Exchange,Shadow Infuse,0.03682,Exchange + Shadow Infuse
+Alternate Trust,Shadow Revoke,0.010080000000000002,Alternate Trust + Shadow Revoke
+Shadow Infuse,Shadow Revoke,0.00954,Shadow Infuse + Shadow Revoke
+Foreshadow,Shadow Revoke,0.00946,Foreshadow + Shadow Revoke
+Alternate Trust,Reform,0.0058000000000000005,Alternate Trust + Reform
+Reform,Shadow Infuse,0.005399999999999999,Reform + Shadow Infuse
+Foreshadow,Reform,0.00512,Foreshadow + Reform
+Exchange,Shadow Revoke,0.0012200000000000002,Exchange + Shadow Revoke
+Exchange,Reform,0.00062,Exchange + Reform
+Reform,Shadow Revoke,0.00011999999999999999,Reform + Shadow Revoke

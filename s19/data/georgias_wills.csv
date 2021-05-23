@@ -1,11 +1,16 @@
 will_1,will_2,relative_prob,will_combo
-Move,Reform,0.66154,Move + Reform
-Exchange,Move,0.18209999999999998,Exchange + Move
-Exchange,Reform,0.0871,Exchange + Reform
-Alternate Trust,Move,0.04213999999999999,Alternate Trust + Move
-Alternate Trust,Reform,0.019379999999999998,Alternate Trust + Reform
-Alternate Trust,Exchange,0.0047799999999999995,Alternate Trust + Exchange
-Foreshadow,Move,0.00194,Foreshadow + Move
-Foreshadow,Reform,0.0007199999999999999,Foreshadow + Reform
-Exchange,Foreshadow,0.00022,Exchange + Foreshadow
-Alternate Trust,Foreshadow,7.999999999999999e-05,Alternate Trust + Foreshadow
+Move,Reform,0.45356,Move + Reform
+Exchange,Move,0.21408000000000002,Exchange + Move
+Exchange,Reform,0.14618,Exchange + Reform
+Move,Shadow Infuse,0.07732000000000001,Move + Shadow Infuse
+Reform,Shadow Infuse,0.05206,Reform + Shadow Infuse
+Exchange,Shadow Infuse,0.025379999999999996,Exchange + Shadow Infuse
+Alternate Trust,Move,0.0134,Alternate Trust + Move
+Alternate Trust,Reform,0.009380000000000001,Alternate Trust + Reform
+Alternate Trust,Exchange,0.00442,Alternate Trust + Exchange
+Alternate Trust,Shadow Infuse,0.00152,Alternate Trust + Shadow Infuse
+Foreshadow,Move,0.0012799999999999999,Foreshadow + Move
+Foreshadow,Reform,0.00084,Foreshadow + Reform
+Exchange,Foreshadow,0.0004,Exchange + Foreshadow
+Foreshadow,Shadow Infuse,0.00014,Foreshadow + Shadow Infuse
+Alternate Trust,Foreshadow,3.9999999999999996e-05,Alternate Trust + Foreshadow

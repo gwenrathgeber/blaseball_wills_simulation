@@ -1,22 +1,16 @@
 will_1,will_2,relative_prob,will_combo
-Foreshadow,Shadow Infuse,0.65672,Foreshadow + Shadow Infuse
-Alternate Trust,Foreshadow,0.08567999999999999,Alternate Trust + Foreshadow
-Foreshadow,Move,0.06188,Foreshadow + Move
-Foreshadow,Item Move,0.04428000000000001,Foreshadow + Item Move
-Exchange,Foreshadow,0.03772,Exchange + Foreshadow
-Alternate Trust,Shadow Infuse,0.035239999999999994,Alternate Trust + Shadow Infuse
-Move,Shadow Infuse,0.0271,Move + Shadow Infuse
-Item Move,Shadow Infuse,0.01998,Item Move + Shadow Infuse
-Exchange,Shadow Infuse,0.017159999999999998,Exchange + Shadow Infuse
-Alternate Trust,Move,0.00308,Alternate Trust + Move
-Alternate Trust,Item Move,0.00206,Alternate Trust + Item Move
-Foreshadow,Reform,0.00202,Foreshadow + Reform
-Alternate Trust,Exchange,0.00198,Alternate Trust + Exchange
-Item Move,Move,0.00174,Item Move + Move
-Exchange,Move,0.0013800000000000002,Exchange + Move
-Exchange,Item Move,0.00104,Exchange + Item Move
-Reform,Shadow Infuse,0.00062,Reform + Shadow Infuse
-Alternate Trust,Reform,0.00014,Alternate Trust + Reform
-Move,Reform,7.999999999999999e-05,Move + Reform
-Item Move,Reform,6e-05,Item Move + Reform
-Exchange,Reform,4e-05,Exchange + Reform
+Foreshadow,Shadow Infuse,0.51836,Foreshadow + Shadow Infuse
+Exchange,Foreshadow,0.13144,Exchange + Foreshadow
+Exchange,Shadow Infuse,0.11024,Exchange + Shadow Infuse
+Foreshadow,Item Move,0.04662,Foreshadow + Item Move
+Foreshadow,Move,0.0435,Foreshadow + Move
+Item Move,Shadow Infuse,0.03882,Item Move + Shadow Infuse
+Move,Shadow Infuse,0.03604,Move + Shadow Infuse
+Alternate Trust,Foreshadow,0.02398,Alternate Trust + Foreshadow
+Alternate Trust,Shadow Infuse,0.02008,Alternate Trust + Shadow Infuse
+Exchange,Item Move,0.010159999999999999,Exchange + Item Move
+Exchange,Move,0.00904,Exchange + Move
+Alternate Trust,Exchange,0.005220000000000001,Alternate Trust + Exchange
+Item Move,Move,0.00324,Item Move + Move
+Alternate Trust,Item Move,0.0018599999999999999,Alternate Trust + Item Move
+Alternate Trust,Move,0.0014,Alternate Trust + Move

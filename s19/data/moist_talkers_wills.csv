@@ -1,11 +1,22 @@
 will_1,will_2,relative_prob,will_combo
-Alternate Trust,Foreshadow,0.20102,Alternate Trust + Foreshadow
-Alternate Trust,Shadow Infuse,0.1592,Alternate Trust + Shadow Infuse
-Foreshadow,Shadow Infuse,0.15646000000000002,Foreshadow + Shadow Infuse
-Alternate Trust,Exchange,0.15224,Alternate Trust + Exchange
-Exchange,Foreshadow,0.14798,Exchange + Foreshadow
-Exchange,Shadow Infuse,0.11868,Exchange + Shadow Infuse
-Alternate Trust,Move,0.01786,Alternate Trust + Move
-Foreshadow,Move,0.0178,Foreshadow + Move
-Exchange,Move,0.01448,Exchange + Move
-Move,Shadow Infuse,0.01428,Move + Shadow Infuse
+Foreshadow,Shadow Infuse,0.29106,Foreshadow + Shadow Infuse
+Exchange,Shadow Infuse,0.1095,Exchange + Shadow Infuse
+Exchange,Foreshadow,0.10188,Exchange + Foreshadow
+Alternate Trust,Foreshadow,0.09134,Alternate Trust + Foreshadow
+Alternate Trust,Shadow Infuse,0.09082,Alternate Trust + Shadow Infuse
+Move,Shadow Infuse,0.08096,Move + Shadow Infuse
+Foreshadow,Move,0.07646,Foreshadow + Move
+Alternate Trust,Exchange,0.03288,Alternate Trust + Exchange
+Exchange,Move,0.02794,Exchange + Move
+Alternate Trust,Move,0.0232,Alternate Trust + Move
+Reform,Shadow Infuse,0.01968,Reform + Shadow Infuse
+Foreshadow,Reform,0.01718,Foreshadow + Reform
+Alternate Trust,Reform,0.00676,Alternate Trust + Reform
+Exchange,Reform,0.00648,Exchange + Reform
+Item Move,Shadow Infuse,0.00634,Item Move + Shadow Infuse
+Foreshadow,Item Move,0.0059,Foreshadow + Item Move
+Move,Reform,0.00524,Move + Reform
+Exchange,Item Move,0.0024000000000000002,Exchange + Item Move
+Item Move,Move,0.00186,Item Move + Move
+Alternate Trust,Item Move,0.0018599999999999999,Alternate Trust + Item Move
+Item Move,Reform,0.00026000000000000003,Item Move + Reform

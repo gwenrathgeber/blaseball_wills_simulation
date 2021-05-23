@@ -1,21 +1,16 @@
 will_1,will_2,relative_prob,will_combo
-Exchange,Shadow Infuse,0.29128,Exchange + Shadow Infuse
-Exchange,Move,0.2286,Exchange + Move
-Alternate Trust,Exchange,0.16605999999999999,Alternate Trust + Exchange
-Move,Shadow Infuse,0.109,Move + Shadow Infuse
-Alternate Trust,Shadow Infuse,0.07718,Alternate Trust + Shadow Infuse
-Alternate Trust,Move,0.06004,Alternate Trust + Move
-Exchange,Reform,0.027179999999999996,Exchange + Reform
-Reform,Shadow Infuse,0.01302,Reform + Shadow Infuse
-Move,Reform,0.01104,Move + Reform
-Alternate Trust,Reform,0.006960000000000001,Alternate Trust + Reform
-Exchange,Foreshadow,0.0036999999999999997,Exchange + Foreshadow
-Foreshadow,Shadow Infuse,0.00146,Foreshadow + Shadow Infuse
-Foreshadow,Move,0.00124,Foreshadow + Move
-Exchange,Shadow Revoke,0.0009199999999999999,Exchange + Shadow Revoke
-Alternate Trust,Foreshadow,0.00076,Alternate Trust + Foreshadow
-Shadow Infuse,Shadow Revoke,0.00058,Shadow Infuse + Shadow Revoke
-Move,Shadow Revoke,0.00058,Move + Shadow Revoke
-Foreshadow,Reform,0.00019999999999999998,Foreshadow + Reform
-Alternate Trust,Shadow Revoke,0.00018,Alternate Trust + Shadow Revoke
-Reform,Shadow Revoke,1.9999999999999998e-05,Reform + Shadow Revoke
+Move,Shadow Infuse,0.4817,Move + Shadow Infuse
+Exchange,Shadow Infuse,0.17975999999999998,Exchange + Shadow Infuse
+Exchange,Move,0.17058,Exchange + Move
+Alternate Trust,Shadow Infuse,0.05696,Alternate Trust + Shadow Infuse
+Alternate Trust,Move,0.05338,Alternate Trust + Move
+Alternate Trust,Exchange,0.01904,Alternate Trust + Exchange
+Reform,Shadow Infuse,0.00988,Reform + Shadow Infuse
+Move,Reform,0.009139999999999999,Move + Reform
+Foreshadow,Move,0.00624,Foreshadow + Move
+Foreshadow,Shadow Infuse,0.00606,Foreshadow + Shadow Infuse
+Exchange,Reform,0.0034999999999999996,Exchange + Reform
+Exchange,Foreshadow,0.0019,Exchange + Foreshadow
+Alternate Trust,Reform,0.00112,Alternate Trust + Reform
+Alternate Trust,Foreshadow,0.0006,Alternate Trust + Foreshadow
+Foreshadow,Reform,0.00014,Foreshadow + Reform
