@@ -1,22 +1,22 @@
 will_1,will_2,relative_prob,will_combo
-Magnify,Move,0.31172,Magnify + Move
-Move,Shadow Infuse,0.1408,Move + Shadow Infuse
-Magnify,Shadow Infuse,0.14002,Magnify + Shadow Infuse
-Exchange,Move,0.10122,Exchange + Move
-Exchange,Magnify,0.09958000000000002,Exchange + Magnify
-Exchange,Shadow Infuse,0.04630000000000001,Exchange + Shadow Infuse
-Magnify,Reform,0.03772,Magnify + Reform
-Move,Reform,0.03562,Move + Reform
-Reform,Shadow Infuse,0.01724,Reform + Shadow Infuse
-Item Steal,Move,0.013920000000000002,Item Steal + Move
-Item Steal,Magnify,0.013300000000000001,Item Steal + Magnify
-Exchange,Reform,0.011400000000000002,Exchange + Reform
-Item Steal,Shadow Infuse,0.006520000000000001,Item Steal + Shadow Infuse
-Move,nan,0.00642,Move + nan
-Magnify,nan,0.00638,Magnify + nan
-Exchange,Item Steal,0.00404,Exchange + Item Steal
-Shadow Infuse,nan,0.0029,Shadow Infuse + nan
-Exchange,nan,0.0020800000000000003,Exchange + nan
-Item Steal,Reform,0.00176,Item Steal + Reform
-Reform,nan,0.0006799999999999999,Reform + nan
-Item Steal,nan,0.00038,Item Steal + nan
+Magnify,Swap,0.31154000000000004,Magnify + Swap
+Magnify,Shadow Infuse,0.14352,Magnify + Shadow Infuse
+Shadow Infuse,Swap,0.14286,Shadow Infuse + Swap
+Exchange,Swap,0.10044,Exchange + Swap
+Exchange,Magnify,0.09860000000000001,Exchange + Magnify
+Exchange,Shadow Infuse,0.044320000000000005,Exchange + Shadow Infuse
+Reform,Swap,0.03558,Reform + Swap
+Magnify,Reform,0.03544,Magnify + Reform
+Reform,Shadow Infuse,0.016460000000000002,Reform + Shadow Infuse
+Swap,Take Item,0.01494,Swap + Take Item
+Magnify,Take Item,0.01332,Magnify + Take Item
+Exchange,Reform,0.01112,Exchange + Reform
+Move,Swap,0.0067800000000000004,Move + Swap
+Magnify,Move,0.006760000000000001,Magnify + Move
+Shadow Infuse,Take Item,0.005999999999999999,Shadow Infuse + Take Item
+Exchange,Take Item,0.00438,Exchange + Take Item
+Move,Shadow Infuse,0.0033199999999999996,Move + Shadow Infuse
+Exchange,Move,0.00212,Exchange + Move
+Reform,Take Item,0.00144,Reform + Take Item
+Move,Reform,0.0007799999999999999,Move + Reform
+Move,Take Item,0.00028000000000000003,Move + Take Item

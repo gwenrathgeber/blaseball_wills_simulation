@@ -1,14 +1,16 @@
 will_1,will_2,relative_prob,will_combo
-Move,nan,0.80198,Move + nan
-Exchange,nan,0.11372,Exchange + nan
-Exchange,Move,0.04286,Exchange + Move
-Magnify,nan,0.01518,Magnify + nan
-Shadow Infuse,nan,0.01162,Shadow Infuse + nan
-Magnify,Move,0.00576,Magnify + Move
-Move,Shadow Infuse,0.00388,Move + Shadow Infuse
-Item Steal,nan,0.00246,Item Steal + nan
-Item Steal,Move,0.0010600000000000002,Item Steal + Move
-Exchange,Magnify,0.0008,Exchange + Magnify
-Exchange,Shadow Infuse,0.00056,Exchange + Shadow Infuse
-Magnify,Shadow Infuse,6e-05,Magnify + Shadow Infuse
-Exchange,Item Steal,6e-05,Exchange + Item Steal
+Move,Swap,0.80408,Move + Swap
+Exchange,Move,0.11358,Exchange + Move
+Exchange,Swap,0.04274,Exchange + Swap
+Magnify,Move,0.01518,Magnify + Move
+Move,Shadow Infuse,0.01078,Move + Shadow Infuse
+Magnify,Swap,0.005180000000000001,Magnify + Swap
+Shadow Infuse,Swap,0.0039000000000000003,Shadow Infuse + Swap
+Move,Take Item,0.00226,Move + Take Item
+Swap,Take Item,0.00078,Swap + Take Item
+Exchange,Magnify,0.0007799999999999999,Exchange + Magnify
+Exchange,Shadow Infuse,0.00035999999999999997,Exchange + Shadow Infuse
+Exchange,Take Item,0.00021999999999999998,Exchange + Take Item
+Magnify,Shadow Infuse,8e-05,Magnify + Shadow Infuse
+Magnify,Take Item,6e-05,Magnify + Take Item
+Shadow Infuse,Take Item,1.9999999999999998e-05,Shadow Infuse + Take Item

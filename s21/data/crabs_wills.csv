@@ -1,22 +1,22 @@
 will_1,will_2,relative_prob,will_combo
-Exchange,Reform,0.7583,Exchange + Reform
-Exchange,Item Steal,0.06892000000000001,Exchange + Item Steal
-Item Steal,Reform,0.053380000000000004,Item Steal + Reform
-Exchange,Move,0.02562,Exchange + Move
-Move,Reform,0.020759999999999997,Move + Reform
-Exchange,Magnify,0.0196,Exchange + Magnify
-Magnify,Reform,0.013919999999999998,Magnify + Reform
-Exchange,Shadow Revoke,0.01204,Exchange + Shadow Revoke
-Reform,Shadow Revoke,0.00936,Reform + Shadow Revoke
-Exchange,nan,0.007200000000000001,Exchange + nan
-Reform,nan,0.00528,Reform + nan
-Item Steal,Move,0.0019,Item Steal + Move
-Item Steal,Magnify,0.00108,Item Steal + Magnify
-Item Steal,Shadow Revoke,0.0009000000000000001,Item Steal + Shadow Revoke
-Item Steal,nan,0.00044,Item Steal + nan
-Magnify,Move,0.00043999999999999996,Magnify + Move
-Move,Shadow Revoke,0.00033999999999999997,Move + Shadow Revoke
-Magnify,Shadow Revoke,0.00019999999999999998,Magnify + Shadow Revoke
-Move,nan,0.00014,Move + nan
-Shadow Revoke,nan,0.00012,Shadow Revoke + nan
-Magnify,nan,5.9999999999999995e-05,Magnify + nan
+Exchange,Reform,0.75708,Exchange + Reform
+Exchange,Take Item,0.06448000000000001,Exchange + Take Item
+Reform,Take Item,0.0572,Reform + Take Item
+Exchange,Swap,0.024960000000000003,Exchange + Swap
+Reform,Swap,0.02076,Reform + Swap
+Exchange,Magnify,0.01732,Exchange + Magnify
+Magnify,Reform,0.01584,Magnify + Reform
+Exchange,Shadow Revoke,0.01206,Exchange + Shadow Revoke
+Reform,Shadow Revoke,0.01124,Reform + Shadow Revoke
+Exchange,Move,0.00724,Exchange + Move
+Move,Reform,0.0063,Move + Reform
+Swap,Take Item,0.00178,Swap + Take Item
+Magnify,Take Item,0.00098,Magnify + Take Item
+Shadow Revoke,Take Item,0.0007799999999999999,Shadow Revoke + Take Item
+Magnify,Swap,0.0005600000000000001,Magnify + Swap
+Move,Take Item,0.0005,Move + Take Item
+Shadow Revoke,Swap,0.00028,Shadow Revoke + Swap
+Magnify,Shadow Revoke,0.00024,Magnify + Shadow Revoke
+Move,Swap,0.00016,Move + Swap
+Magnify,Move,0.00016,Magnify + Move
+Move,Shadow Revoke,8e-05,Move + Shadow Revoke

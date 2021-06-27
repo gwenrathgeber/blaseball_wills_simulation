@@ -1,29 +1,29 @@
 will_1,will_2,relative_prob,will_combo
-Exchange,Shadow Revoke,0.31236,Exchange + Shadow Revoke
-Shadow Infuse,Shadow Revoke,0.14809999999999998,Shadow Infuse + Shadow Revoke
-Magnify,Shadow Revoke,0.1125,Magnify + Shadow Revoke
-Move,Shadow Revoke,0.09092000000000001,Move + Shadow Revoke
-Exchange,Shadow Infuse,0.06252,Exchange + Shadow Infuse
-Exchange,Magnify,0.0486,Exchange + Magnify
-Exchange,Move,0.03884,Exchange + Move
-Item Steal,Shadow Revoke,0.02782,Item Steal + Shadow Revoke
-Magnify,Shadow Infuse,0.02364,Magnify + Shadow Infuse
-Reform,Shadow Revoke,0.023620000000000002,Reform + Shadow Revoke
-Shadow Revoke,nan,0.01832,Shadow Revoke + nan
-Move,Shadow Infuse,0.01718,Move + Shadow Infuse
-Magnify,Move,0.014,Magnify + Move
-Exchange,Item Steal,0.012280000000000001,Exchange + Item Steal
-Exchange,Reform,0.0091,Exchange + Reform
-Exchange,nan,0.0068200000000000005,Exchange + nan
-Item Steal,Shadow Infuse,0.00498,Item Steal + Shadow Infuse
-Item Steal,Magnify,0.00458,Item Steal + Magnify
-Reform,Shadow Infuse,0.00442,Reform + Shadow Infuse
-Item Steal,Move,0.0036200000000000004,Item Steal + Move
-Magnify,Reform,0.00334,Magnify + Reform
-Shadow Infuse,nan,0.00318,Shadow Infuse + nan
-Move,Reform,0.00272,Move + Reform
-Magnify,nan,0.00272,Magnify + nan
-Move,nan,0.00192,Move + nan
-Item Steal,Reform,0.0007199999999999999,Item Steal + Reform
-Item Steal,nan,0.00062,Item Steal + nan
-Reform,nan,0.0005600000000000001,Reform + nan
+Exchange,Shadow Revoke,0.30838000000000004,Exchange + Shadow Revoke
+Shadow Infuse,Shadow Revoke,0.1472,Shadow Infuse + Shadow Revoke
+Magnify,Shadow Revoke,0.11671999999999999,Magnify + Shadow Revoke
+Shadow Revoke,Swap,0.09132,Shadow Revoke + Swap
+Exchange,Shadow Infuse,0.062400000000000004,Exchange + Shadow Infuse
+Exchange,Magnify,0.047880000000000006,Exchange + Magnify
+Exchange,Swap,0.03784,Exchange + Swap
+Shadow Revoke,Take Item,0.02798,Shadow Revoke + Take Item
+Reform,Shadow Revoke,0.02412,Reform + Shadow Revoke
+Magnify,Shadow Infuse,0.02372,Magnify + Shadow Infuse
+Move,Shadow Revoke,0.01786,Move + Shadow Revoke
+Shadow Infuse,Swap,0.01704,Shadow Infuse + Swap
+Magnify,Swap,0.01328,Magnify + Swap
+Exchange,Take Item,0.011880000000000002,Exchange + Take Item
+Exchange,Reform,0.010060000000000001,Exchange + Reform
+Exchange,Move,0.007640000000000001,Exchange + Move
+Shadow Infuse,Take Item,0.00564,Shadow Infuse + Take Item
+Reform,Shadow Infuse,0.004739999999999999,Reform + Shadow Infuse
+Magnify,Take Item,0.00422,Magnify + Take Item
+Magnify,Reform,0.0037199999999999998,Magnify + Reform
+Swap,Take Item,0.00346,Swap + Take Item
+Move,Shadow Infuse,0.00334,Move + Shadow Infuse
+Reform,Swap,0.00306,Reform + Swap
+Magnify,Move,0.0026,Magnify + Move
+Move,Swap,0.00196,Move + Swap
+Reform,Take Item,0.00098,Reform + Take Item
+Move,Reform,0.0005,Move + Reform
+Move,Take Item,0.00045999999999999996,Move + Take Item

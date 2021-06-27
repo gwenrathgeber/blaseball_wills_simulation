@@ -1,22 +1,22 @@
 will_1,will_2,relative_prob,will_combo
-Item Steal,nan,0.5547,Item Steal + nan
-Exchange,Item Steal,0.08317999999999999,Exchange + Item Steal
-Item Steal,Move,0.07206,Item Steal + Move
-Item Steal,Shadow Infuse,0.06217999999999999,Item Steal + Shadow Infuse
-Item Steal,Magnify,0.0517,Item Steal + Magnify
-Exchange,nan,0.0435,Exchange + nan
-Move,nan,0.0375,Move + nan
-Shadow Infuse,nan,0.03262,Shadow Infuse + nan
-Magnify,nan,0.02658,Magnify + nan
-Item Steal,Reform,0.0067599999999999995,Item Steal + Reform
-Exchange,Move,0.00546,Exchange + Move
-Exchange,Shadow Infuse,0.00486,Exchange + Shadow Infuse
-Exchange,Magnify,0.00386,Exchange + Magnify
-Move,Shadow Infuse,0.00374,Move + Shadow Infuse
-Reform,nan,0.00336,Reform + nan
-Magnify,Shadow Infuse,0.00318,Magnify + Shadow Infuse
-Magnify,Move,0.00316,Magnify + Move
-Exchange,Reform,0.00062,Exchange + Reform
-Move,Reform,0.00036,Move + Reform
-Reform,Shadow Infuse,0.00034,Reform + Shadow Infuse
-Magnify,Reform,0.00028000000000000003,Magnify + Reform
+Move,Take Item,0.55742,Move + Take Item
+Exchange,Take Item,0.08188000000000001,Exchange + Take Item
+Swap,Take Item,0.0717,Swap + Take Item
+Shadow Infuse,Take Item,0.06334,Shadow Infuse + Take Item
+Magnify,Take Item,0.05026,Magnify + Take Item
+Exchange,Move,0.042660000000000003,Exchange + Move
+Move,Swap,0.03822,Move + Swap
+Move,Shadow Infuse,0.03356,Move + Shadow Infuse
+Magnify,Move,0.0272,Magnify + Move
+Reform,Take Item,0.00582,Reform + Take Item
+Exchange,Swap,0.00528,Exchange + Swap
+Exchange,Shadow Infuse,0.00454,Exchange + Shadow Infuse
+Shadow Infuse,Swap,0.00422,Shadow Infuse + Swap
+Magnify,Swap,0.0035799999999999994,Magnify + Swap
+Exchange,Magnify,0.0034200000000000003,Exchange + Magnify
+Move,Reform,0.0032400000000000003,Move + Reform
+Magnify,Shadow Infuse,0.0025199999999999997,Magnify + Shadow Infuse
+Exchange,Reform,0.00044,Exchange + Reform
+Reform,Swap,0.00028000000000000003,Reform + Swap
+Reform,Shadow Infuse,0.00024,Reform + Shadow Infuse
+Magnify,Reform,0.00017999999999999998,Magnify + Reform
