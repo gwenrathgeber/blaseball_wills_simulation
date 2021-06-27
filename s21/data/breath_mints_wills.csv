@@ -1,0 +1,10 @@
+will_1,will_2,relative_prob,will_combo
+Exchange,Magnify,0.9254400000000002,Exchange + Magnify
+Exchange,nan,0.0308,Exchange + nan
+Magnify,nan,0.02918,Magnify + nan
+Exchange,Shadow Infuse,0.004540000000000001,Exchange + Shadow Infuse
+Magnify,Shadow Infuse,0.00402,Magnify + Shadow Infuse
+Item Steal,Magnify,0.0031399999999999996,Item Steal + Magnify
+Exchange,Item Steal,0.00264,Exchange + Item Steal
+Shadow Infuse,nan,0.00014,Shadow Infuse + nan
+Item Steal,nan,9.999999999999999e-05,Item Steal + nan

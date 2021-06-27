@@ -1,0 +1,7 @@
+will_1,will_2,relative_prob,will_combo
+Exchange,Shadow Infuse,0.46077999999999997,Exchange + Shadow Infuse
+Exchange,Magnify,0.3863,Exchange + Magnify
+Magnify,Shadow Infuse,0.11372,Magnify + Shadow Infuse
+Exchange,Shadow Revoke,0.026,Exchange + Shadow Revoke
+Shadow Infuse,Shadow Revoke,0.00722,Shadow Infuse + Shadow Revoke
+Magnify,Shadow Revoke,0.00598,Magnify + Shadow Revoke

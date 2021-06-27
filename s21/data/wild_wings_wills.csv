@@ -1,0 +1,11 @@
+will_1,will_2,relative_prob,will_combo
+Exchange,nan,0.31698,Exchange + nan
+Move,nan,0.29416,Move + nan
+Exchange,Move,0.28278,Exchange + Move
+Exchange,Shadow Infuse,0.02634,Exchange + Shadow Infuse
+Shadow Infuse,nan,0.02628,Shadow Infuse + nan
+Move,Shadow Infuse,0.025400000000000002,Move + Shadow Infuse
+Reform,nan,0.00972,Reform + nan
+Exchange,Reform,0.009439999999999999,Exchange + Reform
+Move,Reform,0.00792,Move + Reform
+Reform,Shadow Infuse,0.00098,Reform + Shadow Infuse
